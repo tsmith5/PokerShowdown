@@ -15,3 +15,6 @@ None yet. :)
 * The ranking of the card: 2 < 3 < 4 < 5 < 6 < 7 < 8 < 9 < 10 < J < Q < K < A. Ace is the highest and 2 is the lowers
 * The ranking of the suit: D < C < H < S. Diamonds is the lowest and Spades is the highest.
 * The ranking of hand: High Card < One Pair < Three of a Kind < Flush (if 2 players have the same hand, it check for each card based on the circumstance)
+
+## Output
+![output.png](https://github.com/tsmith5/PokerShowdown/raw/master/output.png)
